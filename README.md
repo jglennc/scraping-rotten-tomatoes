@@ -31,7 +31,7 @@ Data to be scraped:
 [Scraping process can be seen in the jupyter notebook file (click here to open the jupyter notebook)](./scraping-rotten-tomatoes.ipynb)
 
 
-dataframe containing scraped data
+dataframe containing scraped data:
 
 ![](/images/scraped_dataframe.png)
 
