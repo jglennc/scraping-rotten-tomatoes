@@ -24,7 +24,8 @@ Data to be scraped:
 
 * Python libraries:
 
-    * pandas 
+    * pandas
+    * requests
     * beautifulsoup
 
 ## Data Extraction
