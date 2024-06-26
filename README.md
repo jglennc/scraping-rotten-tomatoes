@@ -4,7 +4,7 @@
 
 ![](/images/rotten_tomatoes_heading.png)
 
-The goal is to extract the informations of each movies as seen in the picture below:
+**The goal** is to extract the informations of each movies as seen in the picture below:
 
 ![](/images/data_example.png)
 
